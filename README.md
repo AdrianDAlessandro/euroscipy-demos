@@ -1,8 +1,10 @@
-# JupyterLite Demo
+# EuroSciPy 2023 (JupyterLite) Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://adriandalessandro.github.io/euroscipy-demos/)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+
+This JupyterLite instance includes some notebooks to demo some packages we thought were of note from EuroSciPy 2023.
 
 ## ✨ Try it in your browser ✨
 
